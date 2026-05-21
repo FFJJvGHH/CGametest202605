@@ -1,3 +1,3 @@
 hello gitub!
-I'am a new developer.
+I'm a new developer.
 This is my first cpp game!
